@@ -2,7 +2,7 @@
 
 A classic two-player Battleship game implemented on one screen, with animations, sound effects, and a clean interactive interface. Players take turns placing ships, launching attacks, and racing to sink each other’s fleets.
 
-
+![Demo](battleship/game-preview.gif)
 
 🚀 How to Play
 
